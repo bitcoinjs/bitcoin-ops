@@ -1,21 +1,21 @@
 {
-  "name": "bitcoinjs-ops",
+  "name": "bitcoin-ops",
   "version": "1.3.0",
   "description": "bitcoin OP codes",
   "author": "Daniel Cousens",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoinjs-ops.git"
+    "url": "https://github.com/bitcoinjs/bitcoin-ops.git"
   },
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bitcoinjs-ops/issues"
+    "url": "https://github.com/bitcoinjs/bitcoin-ops/issues"
   },
-  "homepage": "https://github.com/bitcoinjs/bitcoinjs-ops",
+  "homepage": "https://github.com/bitcoinjs/bitcoin-ops",
   "keywords": [
     "opcodes",
     "ops",
-    "bitcoinjs-ops",
+    "bitcoin-ops",
     "bitcoin"
   ],
   "files": [
