@@ -18,6 +18,10 @@
     "bitcoinjs-ops",
     "bitcoin"
   ],
+  "files": [
+    "index.json",
+    "map.js"
+  ],
   "main": "./index.json",
   "scripts": {
     "standard": "standard",
