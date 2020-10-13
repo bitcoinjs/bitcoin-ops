@@ -1,22 +1,22 @@
 {
-  "name": "bitcoin-ops",
-  "version": "1.4.1",
-  "description": "bitcoin OP codes",
+  "name": "tapyrus-ops",
+  "version": "0.1.0",
+  "description": "tapyrus OP codes",
   "author": "Daniel Cousens",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitcoinjs/bitcoin-ops.git"
+    "url": "https://github.com/chaintope/tapyrus-ops.git"
   },
   "bugs": {
-    "url": "https://github.com/bitcoinjs/bitcoin-ops/issues"
+    "url": "https://github.com/chaintope/tapyrus-ops/issues"
   },
-  "homepage": "https://github.com/bitcoinjs/bitcoin-ops",
+  "homepage": "https://github.com/chaintope/tapyrus-ops",
   "keywords": [
     "opcodes",
     "ops",
-    "bitcoin-ops",
-    "bitcoin"
+    "tapyrus-ops",
+    "tapyrus"
   ],
   "files": [
     "index.json",
